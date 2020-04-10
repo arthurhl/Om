@@ -1,5 +1,5 @@
 # Omnistack-11
-Semana Omnistack 11 - Rocketseat - Projeto Be The Hero
+Semana Omnistack 11 - Rocketseat - Projeto Be The Hero 
 
 1 - Iniciando Backend
 
@@ -15,3 +15,9 @@ Semana Omnistack 11 - Rocketseat - Projeto Be The Hero
 
   $ npm install
   $ npm start
+
+Tecnologias
+  Node.js
+  React
+  React Native
+  Expo
